@@ -300,7 +300,6 @@ PODS:
     - React-RCTNetwork
     - React-RCTSettings
     - React-RCTText
-    - React-RCTVibration
     - ReactCommon/turbomodule/core
     - Yoga
   - RNScreens (3.9.0):
@@ -447,7 +446,7 @@ SPEC CHECKSUMS:
   React-runtimeexecutor: 85187f19dd9c47a7c102f9994f9d14e4dc2110de
   ReactCommon: eafed38eec7b591c31751bfa7494801618460459
   RNGestureHandler: 9b7e605a741412e20e13c512738a31bd1611759b
-  RNReanimated: 3cbad346d8b98ca090774ee9ee012b4e90a400f4
+  RNReanimated: f8163df4ac57e6fa01c1684d08de6f94ed57aa48
   RNScreens: 4d79118be80f79fa1f4aa131909a1d6e86280af3
   Yoga: aa0cb45287ebe1004c02a13f279c55a95f1572f4
 
