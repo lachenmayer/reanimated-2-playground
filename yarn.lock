@@ -6153,9 +6153,9 @@ react-native-gesture-handler@^1.9.0:
     invariant "^2.2.4"
     prop-types "^15.7.2"
 
-"react-native-reanimated@https://github.com/software-mansion/react-native-reanimated":
+"react-native-reanimated@https://github.com/software-mansion/react-native-reanimated.git#@wolewicki/remove-layout-animations-in-screens":
   version "2.3.0-beta.3"
-  resolved "https://github.com/software-mansion/react-native-reanimated#12093cbe04d978b2ef619531755ef7d472242cd9"
+  resolved "https://github.com/software-mansion/react-native-reanimated.git#66d59735be0bfc1718ae4f284d70c5604b83386c"
   dependencies:
     "@babel/plugin-transform-object-assign" "^7.10.4"
     "@types/invariant" "^2.2.35"
